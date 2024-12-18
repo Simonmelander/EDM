@@ -119,7 +119,7 @@ public class LoginPage extends javax.swing.JFrame {
 
     private void textField1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_textField1ActionPerformed
         // TODO add your handling code here:
-        //Testforondring
+        //Testforondring2
     }//GEN-LAST:event_textField1ActionPerformed
 
     private void button1ActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_button1ActionPerformed
